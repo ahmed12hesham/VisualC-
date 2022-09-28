@@ -1,0 +1,11 @@
+C:\Users\Administrator\source\repos\fstack\fstack\bin\Debug\fstack.exe.config
+C:\Users\Administrator\source\repos\fstack\fstack\bin\Debug\fstack.exe
+C:\Users\Administrator\source\repos\fstack\fstack\bin\Debug\fstack.pdb
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.csproj.SuggestedBindingRedirects.cache
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.Form1.resources
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.Properties.Resources.resources
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.exe
+C:\Users\Administrator\source\repos\fstack\fstack\obj\Debug\fstack.pdb
